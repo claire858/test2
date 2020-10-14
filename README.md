@@ -1,3 +1,3 @@
 # Git Hub lernen
 
-:smily:
+:smiley:
